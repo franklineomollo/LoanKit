@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:name;datatype:blob,name:phone;datatype:int,name:street;datatype:string,name:gender;datatype:blob,name:city;datatype:blob,name:country;datatype:blob,name:region;datatype:string,name:bdate;datatype:int,name:bmonth;datatype:string,name:byear;datatype:int,name:nationality;datatype:blob,name:uploadedimage;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:password;datatype:string,name:rpt_password;datatype:string" />
+</info>
